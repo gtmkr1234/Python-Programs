@@ -1,16 +1,3 @@
-n1=input()
-d1=input()
-n2=input()
-d2=input()
-y1=d1[6:10]
-mon1=d1[3:5]
-day1=d1[0:2]
-y2=d2[6:10]
-mon2=d2[3:5]
-day2=d2[0:2]
-if (y1>y2):
-    print(n1)
-elif (y2>y1):
 n1=str(input())
 d1=input()
 n2=str(input())
